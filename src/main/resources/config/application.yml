@@ -96,3 +96,7 @@ jhipster:
         title: JHipster Registry API
         description: JHipster Registry API documentation
         version: ${info.project.version}
+    security:
+        authentication:
+            jwt:
+                secret: test

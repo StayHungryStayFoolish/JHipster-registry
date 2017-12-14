@@ -25,3 +25,7 @@ To run the cloned repository;
 
 [travis-image]: https://travis-ci.org/jhipster/jhipster-registry.svg?branch=master
 [travis-url]: https://travis-ci.org/jhipster/jhipster-registry
+
+## 已集成 jhipster-registry-3.2.3.war，修改 application.yml 可以直接运行
+
+
