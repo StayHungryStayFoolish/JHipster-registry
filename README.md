@@ -26,8 +26,16 @@ To run the cloned repository;
 [travis-image]: https://travis-ci.org/jhipster/jhipster-registry.svg?branch=master
 [travis-url]: https://travis-ci.org/jhipster/jhipster-registry
 
-## 已集成 jhipster-registry-3.2.3.war，修改 application.yml 可以直接运行
+## 项目启动
 
-URL: http://localhost:8761
+- cd 项目根目录
+
+- 执行命令
+
+        ./jhipster-registry-3.2.3.war --security.user.password=admin --jhipster.security.authentication.jwt.secret=test --spring.cloud.config.server.native.search-locations=file:./central-config
+
+- URL http://localhost:8761
+
+- 用户名、密码  admin
 
 
