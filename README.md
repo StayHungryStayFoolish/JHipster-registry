@@ -28,4 +28,6 @@ To run the cloned repository;
 
 ## 已集成 jhipster-registry-3.2.3.war，修改 application.yml 可以直接运行
 
+URL: http://localhost:8761
+
 
