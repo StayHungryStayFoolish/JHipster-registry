@@ -41,6 +41,7 @@ To run the cloned repository;
 - resources -- application.yaml
 
 已增加 -- ：
+
         security:
         authentication:
             jwt:
