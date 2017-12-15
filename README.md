@@ -38,4 +38,11 @@ To run the cloned repository;
 
 - 用户名、密码  admin
 
+- resources -- application.yaml
+
+已增加 -- ：
+        security:
+        authentication:
+            jwt:
+                secret: test
 
